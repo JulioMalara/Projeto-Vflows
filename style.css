@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body {
+    width: 100%;
+    min-width: 100vh;
+
+    text-align: center;
+
+}
+
+.container {
+    margin: 20px auto;
+
+}
+
+.forms {
+    background-color: rgb(0, 0, 255);
+    margin: auto;
+    margin-top: 5px;
+    width: 79%;
+    color: white;
+    border-radius: 2px;
+
+}
+
+.form {
+    margin: auto;
+    width: 80%;
+    padding: 3em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    line-height: 30px;
+    font-size: 15px;
+
+}
+
+.products {
+    background-color: rgb(0, 0, 255);
+    margin: auto;
+    margin-top: 30px;
+    width: 79%;
+    text-align: center;
+    color: white;
+    border-radius: 2px;
+
+}
+
+.paragrafo {
+    margin: auto;
+    width: 80%;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    text-align: left;
+
+}
+
+.products1 {
+    margin: auto;
+    width: 800px;
+    padding: 1em;
+    border: 1px, solid #ccc;
+    border-radius: 1em;
+    text-align: justify;
+}
+
+.anexos {
+    background-color: rgb(0, 0, 255);
+    margin: auto;
+    margin-top: 30px;
+    width: 79%;
+    text-align: center;
+    color: white;
+    border-radius: 2px;
+
+}
+
+.itens {
+    margin: auto;
+    width: 80%;
+    height: 100px;
+    padding: 1em;
+    border: 1px solid #ccc;
+    border-radius: 1em;
+    text-align: left;
+}
+
+.incluir {
+    margin: auto;
+    margin-top: -20px;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(8, 209, 18);
+    margin: 2px auto;
+    width: 70%;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+}
+
+.reset {
+    text-align: left;
+    background-image: url(./assets/lixeira2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-top: 80px;
+
+
+}
+
+.botao-reset {
+    margin-bottom: -80px;
+}
+
+.apagar {
+    text-align: left;
+    background-image: url(./assets/lixeira2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.visualizar {
+    text-align: left;
+    background-image: url(./assets/visualização.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+
+}
+
+.botao-add {
+    text-align: center;
+}
